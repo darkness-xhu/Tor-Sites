@@ -1,0 +1,10 @@
+/home/darkking/Documents/RustTool/Darkweb-Sites/target/release/deps/librustls_pki_types-4d2f89de4fa7ca8d.rmeta: /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/home/darkking/Documents/RustTool/Darkweb-Sites/target/release/deps/librustls_pki_types-4d2f89de4fa7ca8d.rlib: /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/home/darkking/Documents/RustTool/Darkweb-Sites/target/release/deps/rustls_pki_types-4d2f89de4fa7ca8d.d: /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs:
+/home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs:
+/home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs:
+/home/darkking/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs:

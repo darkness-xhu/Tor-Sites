@@ -1,0 +1,9 @@
+[package]
+name = "Darkweb-Sites"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+reqwest = { version = "0.12.8", features = ["blocking"] }
+scraper = "0.20.0"
