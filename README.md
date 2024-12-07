@@ -12,7 +12,7 @@ Tor-Sites Finder is a Rust-based tool designed to retrieve .onion links from the
 
 ### REQUIREMENTS :
 * internet
-* storage 22.13 MB
+* storage 217.72 MB
 
 ## INSTALLATION [All Linux distro] :
 
