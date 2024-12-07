@@ -23,7 +23,7 @@ Tor-Sites Finder is a Rust-based tool designed to retrieve .onion links from the
 ## SCREEN SHOTS [Linux]
 ![imgcr](https://github.com/user-attachments/assets/b4ab011c-c9a4-4165-89be-6ec5e0fe568b)
 
-Feel the power of PK-PhoneInfoga as you effortlessly gather detailed information for any Pakistan phone number.
+Explore the dark web with ease by finding .onion sites based on keywords, providing you with access to hidden services.
 
 ## CONNECT WITH US :
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rb.gy/pio0nl)
