@@ -26,8 +26,6 @@ Tor-Sites Finder is a Rust-based tool designed to retrieve .onion links from the
 Explore the dark web with ease by finding .onion sites based on keywords, providing you with access to hidden services.
 
 ## CONNECT WITH US :
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rb.gy/pio0nl)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/IwzEWrop0xUIgWR0Hbc0Zk)
-
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/darkness.xhu)
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
