@@ -20,7 +20,6 @@ Tor-Sites Finder is a Rust-based tool designed to retrieve .onion links from the
 * `cd Tor-Sites`
 * `cargo run`
 
-## SCREEN SHOTS [Linux]
 
 
 Explore the dark web with ease by finding .onion sites based on keywords, providing you with access to hidden services.
