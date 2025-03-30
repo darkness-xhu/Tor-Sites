@@ -15,11 +15,15 @@ Tor-Sites Finder is a Rust-based tool designed to retrieve .onion links from the
 * storage 217.72 MB
 
 ## INSTALLATION [All Linux distro] :
-
+```
 * `https://github.com/darkness-xhu/Tor-Sites.git`
+```
+```
 * `cd Tor-Sites`
+```
+```
 * `cargo run`
-
+```
 
 
 Explore the dark web with ease by finding .onion sites based on keywords, providing you with access to hidden services.
